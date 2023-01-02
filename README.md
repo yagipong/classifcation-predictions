@@ -21,13 +21,15 @@ The model employed Logistic Regression and K-Nearest Neighbor models to forecast
 
 Correlation Heatmap
 
-The Correlation Heatmap demonstrates that most of the variables are not highly correlated.
+![Unknown](https://user-images.githubusercontent.com/105327648/210222739-b98095a2-5b28-4a09-8b13-76b01f39e4cf.png)
 
+The Correlation Heatmap demonstrates that most of the variables are not highly correlated.The most strongly correlated variables in the dataset are hours per week and educational-num, but that correlation is only 0.14.
 
+Line Chart - Hours worked by Age
 
-Bar Graph - Item Fat Content vs. Item Visibility
+![Unknown](https://user-images.githubusercontent.com/105327648/210222900-2533e8de-f5f6-43fc-9905-2b6760af8edd.png)
 
-The bar graph displays the relatively similar visibility between low fat and regular items.
+The line chart demonstrates that people tend to hit their peak working hours between ages 30 and 60. After age 80, however, there actually seems to be a resurgance in hours worked.
 
 Model
 
